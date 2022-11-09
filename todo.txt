@@ -1,0 +1,6 @@
+1.Study for 6 hours
+2.Eat
+3.Code for 4 hours
+4.Test
+5.Validate
+6. sleep for 6 hours
